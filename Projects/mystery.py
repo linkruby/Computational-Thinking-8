@@ -62,8 +62,4 @@ else:
                 print("you decided to take the  path leading behind you as you walk down it it gets colder and tighter  until eventually you are in a shivering crawl after what seems like days of crawling you finally make it out in to a strange land you made it out of the facility but to where? YOU WIN? I guess")
         else: 
             print("you really fumbled GAME OVER")  
-                                                   # if you find this I think you may have cheated you cheater      
-            
-
-
-        
+                                                   # if you find this I think you may have cheated you cheater            
